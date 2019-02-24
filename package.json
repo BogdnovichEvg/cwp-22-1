@@ -1,0 +1,11 @@
+{
+    "name":"BEAlab21",
+    "author":"Bogdanovich Evgeny",
+    "description":"my npm package",
+    "version":"1.0.0",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/BogdnovichEvg/cwp-22-1"
+    }
+}
