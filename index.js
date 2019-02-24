@@ -1,4 +1,4 @@
-console.log('Hello! It is v1.0.0');
+console.log('Hello! It is v1.0.0 patch');
 
 const Calculator = {
     calc: (expression) => {
